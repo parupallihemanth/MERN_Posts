@@ -7,7 +7,7 @@ const postRoutes = require('./routes/post')
 const app = express();
 
 
-dotenv.config({path:'./config/.env'});
+dotenv.config({path:'./config/config.env'});
 connectDB();
 
 
