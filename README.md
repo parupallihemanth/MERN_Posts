@@ -1,9 +1,9 @@
 # Mern_News
 
-#Stack of technologies
-Frontend: ReactJS
-Backend: NodeJS/ExpressJS
-Database: Mongodb
+#Stack of technologies <br />
+Frontend: ReactJS<br />
+Backend: NodeJS/ExpressJS<br />
+Database: Mongodb<br />
 
 # Project Setup
 1)Install Node.<br />
