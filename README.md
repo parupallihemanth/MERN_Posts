@@ -1,4 +1,4 @@
-# Mern_News
+# Mern_Posts
 
 # Stack of technologies 
 Frontend: ReactJS<br />
