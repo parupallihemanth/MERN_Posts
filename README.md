@@ -1,6 +1,6 @@
 # Mern_News
 
-#Stack of technologies <br />
+# Stack of technologies 
 Frontend: ReactJS<br />
 Backend: NodeJS/ExpressJS<br />
 Database: Mongodb<br />
